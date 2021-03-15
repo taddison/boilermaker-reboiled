@@ -4,8 +4,8 @@
 
 ### Done
 
-* script/postinstall.js instead of `touch` for secrets.js (works on Windows)
-* removed the conditional around the install of `npm-merge-driver` (see https://www.npmjs.com/package/npm-merge-driver).
+* script/postinstall.js instead of `touch` for secrets.js Works on Windows now.
+* removed the conditional around the install of `npm-merge-driver` (see https://www.npmjs.com/package/npm-merge-driver). Works on Windows now. See outstanding issue below.
 
 ### Issues
 
